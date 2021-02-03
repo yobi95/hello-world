@@ -1,2 +1,2 @@
-It is a pad.
-Yes
+This is a test.
+Hello
